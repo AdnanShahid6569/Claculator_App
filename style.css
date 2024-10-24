@@ -1,0 +1,37 @@
+#main{
+    border: 2px solid gray;
+    box-shadow: -3px -3px 3px gainsboro
+    ,3px 3px 3px gainsboro;
+    width: 240px;
+    margin: 0 auto;
+}
+.result{
+    width: 97%;
+    height: 25px;
+    position: relative;
+    top: -2px;
+    top: -2px;
+    background-color: rgb(106, 105, 105);
+    color: #fff;
+}
+
+.clearBtn {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 6px;
+    border-radius: 5px;
+    background-color: grey;
+  }
+
+.btn{
+    width: 52.9px;
+    margin: 2px;
+    border-radius: 4px;
+    background-color: grey;
+}
+
+.halfBtn{
+    width: 113.9px;
+    margin: 2px;
+    background-color: rgb(145, 142, 138);
+}
